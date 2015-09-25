@@ -1,5 +1,7 @@
 
-# slackin
+# foundersbr-slackin
+
+[Founder's Brasil Slack](http://foundersbr.herokuapp.com)
 
 A little server that enables public access
 to a Slack server. Like Freenode, but on Slack.
